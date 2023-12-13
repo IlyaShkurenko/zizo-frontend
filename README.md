@@ -9,6 +9,9 @@
 
 > React.js, Typescript, Vite
 
+## Preview 
+https://zizo-frontend.vercel.app
+
 ## Project description
 
 ### Overview
